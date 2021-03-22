@@ -1,8 +1,10 @@
 # tailwind-react-hamburger-menu
 
-This is the source code for the [November 2020 LIJS Meetup](https://www.meetup.com/long-island-javascript/events/vjqdrrybcpbhc/).
+Demo for the November 2020 LIJS Meetup: Let's build a responsive, accessible hamburger menu with React and TailwindCSS!
 
-It will be used to build a responsive, accessible hamburger menu with React and TailwindCSS. 
+https://www.meetup.com/long-island-javascript/events/vjqdrrybcpbhc/
+
+It will be used to build a responsive, accessible hamburger menu with React and TailwindCSS.
 
 ## Getting Started
 
@@ -21,7 +23,7 @@ Navigate to project and install the dependencies:
 ```
 cd tailwind-react-hamburger-menu
 yarn
-````
+```
 
 **Step 3:**
 
@@ -38,9 +40,7 @@ Run one of the scripts below:
 | `yarn lint`            | Runs ESLint using [eslint-config-gojutin](https://github.com/gojutin/eslint-config-gojutin).                                                                                                                                                                 |
 | `yarn test`            | Launches the application test runner. Run with the `--watch`flag (`yarn test -- --watch`) to run in interactive watch mode.                                                                                                                                  |
 | `yarn build-storybook` | Builds a static copy of your Storybook to the `storybook-static/` folder.                                                                                                                                                                                    |
-| `yarn build`           | Builds a static copy of your site to the `build/` folder using a minimal Webpack set up. (*@snowpack/plugin-webpack* & *@snowpack/plugin-optimize*). Learn more at [https://www.snowpack.dev/#optimized-builds](https://www.snowpack.dev/#optimized-builds). |
-
-
+| `yarn build`           | Builds a static copy of your site to the `build/` folder using a minimal Webpack set up. (_@snowpack/plugin-webpack_ & _@snowpack/plugin-optimize_). Learn more at [https://www.snowpack.dev/#optimized-builds](https://www.snowpack.dev/#optimized-builds). |
 
 ABOUT THIS TEMPLATE:
 
